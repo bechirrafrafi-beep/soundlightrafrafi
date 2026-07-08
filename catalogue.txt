@@ -1,0 +1,33 @@
+Categorie Sonorisation;
+Enceinte RCF;80.000
+Caissons de basses;80.000
+Console de mixage;80.000
+Console de mixage numerique;100.000
+Micro Baladeur;50,000
+Micro pupitre;50,000
+
+Categorie Projection;
+Ecran led /m²;100,000
+Media server;350,000
+Camera avec tripied;450,000
+
+Categorie Lumière;
+Beam Light;80,000
+Par Light;20,000
+Bar Light;20,000
+Portman Light;80,000
+Machine à fumer;80,000
+Machine à flame;70,000
+Controleur de lumière;100,000
+
+Categorie Production;
+Photographe;450;000
+Videographe;900,000
+
+Categorie Divers;
+Scene /m²;30,000
+Structure 4m(hauteur)x6m(largeur);350,000
+
+
+Categorie Transport et assitance;
+Transport;150,000
